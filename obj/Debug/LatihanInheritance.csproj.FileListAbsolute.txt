@@ -1,0 +1,7 @@
+D:\rahanrh\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.csprojAssemblyReference.cache
+D:\rahanrh\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.csproj.CoreCompileInputs.cache
+D:\rahanrh\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.exe.config
+D:\rahanrh\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.exe
+D:\rahanrh\LatihanInheritance\LatihanInheritance\bin\Debug\LatihanInheritance.pdb
+D:\rahanrh\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.exe
+D:\rahanrh\LatihanInheritance\LatihanInheritance\obj\Debug\LatihanInheritance.pdb
